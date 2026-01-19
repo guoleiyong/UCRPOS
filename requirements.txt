@@ -1,0 +1,42 @@
+# requirements.txt
+
+# Core dependencies
+numpy>=1.21.0
+pandas>=1.3.0
+scikit-learn>=1.0.0
+scipy>=1.7.0
+
+# Deep learning
+tensorflow>=2.8.0
+keras>=2.8.0
+
+# Audio processing
+librosa>=0.9.0
+soundfile>=0.10.0
+
+# Data processing
+imbalanced-learn>=0.8.0
+tqdm>=4.62.0
+
+# Visualization
+matplotlib>=3.5.0
+seaborn>=0.11.0
+
+# Explainable AI
+shap>=0.40.0
+
+# Network analysis
+networkx>=2.6.0
+
+# Jupyter support (optional)
+jupyter>=1.0.0
+ipykernel>=6.0.0
+
+# Development tools
+pytest>=6.0.0
+black>=21.0.0
+flake8>=3.9.0
+
+# Documentation
+sphinx>=4.0.0
+sphinx-rtd-theme>=1.0.0
